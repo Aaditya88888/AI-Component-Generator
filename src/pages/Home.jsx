@@ -134,7 +134,7 @@ Requirements:
               setFrameWork(selected);
             }}
           />
-          <p className="text-[14px] lg:text-[15px] font-[700] mt-5">
+          <p className="text-[14px] lg:text-[15px] font-[700] mt-5 text-white">
             Describe your component
           </p>
           <textarea

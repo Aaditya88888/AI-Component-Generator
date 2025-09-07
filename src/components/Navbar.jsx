@@ -40,6 +40,11 @@ const Navbar = () => {
           </div>
         </div>
       </div>
+
+      {/* Animated line below navbar */}
+      <div
+        className={`h-0.5 w-full bg-purple-500 transition-colors duration-500 `}
+      ></div>
     </>
   );
 };
